@@ -8,6 +8,11 @@
 A smart barcode scanner component for React Native app.
 The library uses [https://github.com/zxing/zxing][1] to decode the barcodes for android, and also supports ios.
 
+# Use Case
+- 开启二维码扫描
+
+
+
 ## Preview
 
 ![react-native-smart-barcode-preview-ios][2]
